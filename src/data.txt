@@ -1,0 +1,1 @@
+In NodeJS applications, data can be streamed from one location to another using streams, essentially a series of chunks (Buffers or strings) of data read or written one at a time. Streams can be used to process data as it’s being read or written, which allows for efficient and low-memory usage processing of data.
